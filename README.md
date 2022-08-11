@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PabloHmoura Technology student, focused on BackEnd development.
+- 👋 Hi, I’m @PabloHmoura Technology student, focused on FullStack development.
 - 👀 I'm interested in technology and development
 
 PabloHmoura/PabloHmoura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
