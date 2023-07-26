@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @PabloHmoura Technology student, focused on FullStack development.
-- 👀 I'm interested in technology and development
+- 👋 Hi, I’m @PabloHmoura Systems Analyst, focused on FullStack development.
+- 👀 FullStack Developer  | Java | SpringBoot | HMTL, CSS, JavaScript | PostgreSQL | JSON | TomCat
 
 PabloHmoura/PabloHmoura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
